@@ -4,7 +4,7 @@
   Copyright: Copyright (C) GNU GPL 3
   Author: Edward Chernysh
   Date: 13-12-11 18:14
-  Description: Header File
+  Description: Source File
                
 */
 
